@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\#f00000\BlazorApplication\BlazorMentorApp.Models\bin\Debug\netstandard2.0\BlazorMentorApp.Models.deps.json
+C:\Users\HP\Desktop\#f00000\BlazorApplication\BlazorMentorApp.Models\bin\Debug\netstandard2.0\BlazorMentorApp.Models.dll
+C:\Users\HP\Desktop\#f00000\BlazorApplication\BlazorMentorApp.Models\bin\Debug\netstandard2.0\BlazorMentorApp.Models.pdb
+C:\Users\HP\Desktop\#f00000\BlazorApplication\BlazorMentorApp.Models\obj\Debug\netstandard2.0\BlazorMentorApp.Models.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\#f00000\BlazorApplication\BlazorMentorApp.Models\obj\Debug\netstandard2.0\BlazorMentorApp.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\#f00000\BlazorApplication\BlazorMentorApp.Models\obj\Debug\netstandard2.0\BlazorMentorApp.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\#f00000\BlazorApplication\BlazorMentorApp.Models\obj\Debug\netstandard2.0\BlazorMentorApp.Models.dll
+C:\Users\HP\Desktop\#f00000\BlazorApplication\BlazorMentorApp.Models\obj\Debug\netstandard2.0\BlazorMentorApp.Models.pdb
+C:\Users\HP\Desktop\#f00000\BlazorApplication\BlazorMentorApp.Models\obj\Debug\netstandard2.0\BlazorMentorApp.Models.csproj.CoreCompileInputs.cache

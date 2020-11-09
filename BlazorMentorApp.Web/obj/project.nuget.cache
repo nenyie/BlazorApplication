@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FVMg+Qr6pp3ZhTxWd3PLlryiEzIBPwBpEtAhvhpZXh3FmMvYpcgKnRB1qgPpxeUclqbq1gi6+LVA6jsFahP8yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\#f00000\\BlazorApplication\\BlazorMentorApp.Web\\BlazorMentorApp.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
